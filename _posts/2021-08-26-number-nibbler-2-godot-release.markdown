@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Number Nibbler 2.0 - Godot rewrite completed!"
-date:   2021-08-26 12:25:12 -0500
+date:   2021-08-26 19:25:12 -0500
 tags: games development releases
 ---
-YAY 
+
+Coming Soon 
 
 [Play Store][play-store-link]
 
