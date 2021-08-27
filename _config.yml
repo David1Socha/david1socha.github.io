@@ -29,10 +29,18 @@ github_username:  david1socha
 linkedin_username: david-socha
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
+
+minima:
+  skin: solarized
+  social_links:
+    github: david1socha
+    twitter: david1socha
+    linkedin: david-socha
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
