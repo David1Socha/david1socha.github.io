@@ -29,7 +29,7 @@ github_username:  david1socha
 linkedin_username: david-socha
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
