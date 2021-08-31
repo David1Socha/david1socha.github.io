@@ -11,12 +11,12 @@ Number Nibbler was originally developed in [Love2D](https://love2d.org/), then p
 
 
 # Gameplay Screenshots
-![Gameplay Screenshot 1](../assets/numbernibbler-screen-1.jpg)
+![Gameplay Screenshot 1](/assets/numbernibbler-screen-1.jpg)
 
-![Gameplay Screenshot 2](../assets/numbernibbler-screen-2.jpg)
+![Gameplay Screenshot 2](/assets/numbernibbler-screen-2.jpg)
 
-![Gameplay Screenshot 3](../assets/numbernibbler-screen-3.jpg)
+![Gameplay Screenshot 3](/assets/numbernibbler-screen-3.jpg)
 
-![Gameplay Screenshot 4](../assets/numbernibbler-screen-4.jpg)
+![Gameplay Screenshot 4](/assets/numbernibbler-screen-4.jpg)
 
-![Gameplay Screenshot 5](../assets/numbernibbler-screen-5.jpg)
+![Gameplay Screenshot 5](/assets/numbernibbler-screen-5.jpg)
